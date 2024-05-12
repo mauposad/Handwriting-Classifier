@@ -4,7 +4,7 @@ Final Project for Machine Learning CSCI 425. (Handwritten Letter Recognition)
 
 
 # Members
-Mauricio Posadas
+Mauricio Posadas (mposad9061@gmail.com)
 
 ### App Demo is in the Demo/demo.ipynb
 Main code block should run the pop up window demonstration. Demo is run from jupyter notebook
